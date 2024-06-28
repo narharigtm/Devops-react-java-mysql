@@ -1,0 +1,12 @@
+![docker-compose](https://github.com/narharigtm/Devops-react-java-mysql/assets/161860294/74df069c-59d9-4894-9f3c-ca50412acb1e)
+![docker-composeup](https://github.com/narharigtm/Devops-react-java-mysql/assets/161860294/d0cd7825-9746-4ee2-8e87-6f061d4f81d1)
+![sabai_up](https://github.com/narharigtm/Devops-react-java-mysql/assets/161860294/c66fbfdb-2401-436a-9ac1-aaa2d42dc918)
+![prometheus](https://github.com/narharigtm/Devops-react-java-mysql/assets/161860294/ac1d8c18-a167-44b8-afb1-6ceb9ef5bc03)
+![cadivisor](https://github.com/narharigtm/Devops-react-java-mysql/assets/161860294/4ae4b9f3-1232-4013-ab5b-fc79d7eab34f)
+![grafana ](https://github.com/narharigtm/Devops-react-java-mysql/assets/161860294/1bb225e8-5a0e-478e-899b-ea6e9ff4ad06)
+![loki_grafana](https://github.com/narharigtm/Devops-react-java-mysql/assets/161860294/3eb2849a-c079-44da-858e-26c2d1a3e1c8)
+![sonarqube](https://github.com/narharigtm/Devops-react-java-mysql/assets/161860294/1207d654-6013-4a71-88b4-69228fe3bf1a)
+![java_backend_sonar](https://github.com/narharigtm/Devops-react-java-mysql/assets/161860294/8434ea2b-d636-4157-a99b-406b39e4f985)
+![aws](https://github.com/narharigtm/Devops-react-java-mysql/assets/161860294/8d79125f-d92b-4412-8329-24d08f448a89)
+![hotel_output](https://github.com/narharigtm/Devops-react-java-mysql/assets/161860294/b4716740-9b53-4c90-8484-037dc6983878)
+
