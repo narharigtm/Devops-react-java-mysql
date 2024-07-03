@@ -36,4 +36,24 @@ pipeline {
             }
         }
     }   
+post {
+        always {
+            // Clean up Docker containers
+            sh 'sudo docker-compose down'
+        }
+        success {
+            // Post-build actions to execute on success
+            slackSend channel: '#jenkins-testing',
+                      color: 'good',
+                      message: "ci-pipeline-sucess-of-react+java-project"
+        }
+        failure {
+            // Post-build actions to execute on failure
+            slackSend channel: '#jenkins-testing',
+                      color: 'danger',
+                      message: "ci-pipeline-failed-of-react+java-project""
+        }
+    }
 }
+}
+
